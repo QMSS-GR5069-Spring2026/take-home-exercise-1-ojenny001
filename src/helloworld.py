@@ -3,3 +3,4 @@ def hello_world(string):
         print("Hello, world!")
     else:
         print("This is not Hello World")
+        print(string)
